@@ -284,8 +284,7 @@
         "entity.name.constant",
         "variable.other.constant",
         "variable.other.enummember",
-        "variable.language",
-        "entity"
+        "variable.language"
       ],
       "settings": {
         "foreground": "#91cbff"
