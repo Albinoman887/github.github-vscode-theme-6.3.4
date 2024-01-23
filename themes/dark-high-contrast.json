@@ -257,7 +257,7 @@
     "welcomePage.buttonBackground": "#272b33",
     "welcomePage.buttonHoverBackground": "#525964"
   },
-  "semanticHighlighting": false,
+  "semanticHighlighting": true,
   "tokenColors": [
     {
       "scope": [

@@ -327,7 +327,7 @@ function getTheme({ theme, name }) {
       "welcomePage.buttonBackground"     : color.btn.bg,
       "welcomePage.buttonHoverBackground": color.btn.hoverBg,
     },
-    semanticHighlighting: false,
+    semanticHighlighting: true,
     tokenColors: [
       {
         scope: ["comment", "punctuation.definition.comment", "string.comment"],
