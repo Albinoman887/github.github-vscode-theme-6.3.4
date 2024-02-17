@@ -10,7 +10,7 @@
     "textBlockQuote.background": "#010409",
     "textBlockQuote.border": "#7a828e",
     "textCodeBlock.background": "#9ea7b366",
-    "textPreformat.foreground": "#f0f3f6",
+    "textPreformat.foreground": "#000000",
     "textSeparator.foreground": "#7a828e",
     "icon.foreground": "#f0f3f6",
     "keybindingLabel.foreground": "#f0f3f6",
